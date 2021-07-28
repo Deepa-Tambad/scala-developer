@@ -3,5 +3,4 @@
 *.log
 .idea
 .bsp
-*.properties
 target
